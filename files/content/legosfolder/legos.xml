@@ -14,10 +14,4 @@
     output_cell1="mat_legos"  output_cell2="mat_legos"  
     >
   </Reaction>
-
-  <Graphics 
-	texture_file="mods/legos/files/materials_gfx/rainbow.png" 
-    color="88E8BD5C" 
-    >
-  </Graphics>
 </Materials>
